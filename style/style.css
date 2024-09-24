@@ -1,0 +1,58 @@
+
+canvas {
+border: 15px solid #070707;
+border-radius: 10px;
+background-color: #070202;/*dentro do quadrado*/
+justify-content: center;
+align-items: center;
+margin-left: 0%;
+margin: O auto;
+margin-bottom: -13px;
+/*background-image: url("../assets/png/BG.png");*/
+
+}
+
+header{
+margin-top: 0.4%;}
+
+
+
+body{
+background-image: url("../assets/televisao.png");
+background-repeat: no-repeat;
+background-size: 1300px 900px;
+background-position: 270px 28px;
+margin: O auto;
+background-color: #f8f8f8;/*fora do quadrado*/
+text-align: center;
+overflow: hidden;
+}
+
+body p{
+background-color: #dbce18;
+color: #000000;
+padding: 6px;
+
+font-family: "Jersey 10", sans-serif;
+font-size: 35px;
+}
+
+/*body .gradedojogo
+{
+background-image: url("../assets/png/BG.png");
+}*/
+
+
+footer{
+background-color: #333;
+color: #ffF;
+padding: 8px;
+text-align: center;
+margin-top: 35px;
+Font-family: "Montserrat", sans-serif;
+}
+
+footer span{
+font-size: 1.2em;
+font-weight: 250 ;
+}
